@@ -1,1 +1,1 @@
-number 12
+Create a symbolic link to /bin/ls
