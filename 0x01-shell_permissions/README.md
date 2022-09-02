@@ -1,1 +1,1 @@
- adds execute permission to all subdirectories
+ changes the group owner to school for the file hello
