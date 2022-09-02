@@ -1,1 +1,1 @@
-2. There is no place like home
+ changes the working directory to the user’s home directory.
