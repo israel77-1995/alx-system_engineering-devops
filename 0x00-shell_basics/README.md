@@ -1,1 +1,1 @@
-l -al
+Display current directory contents
