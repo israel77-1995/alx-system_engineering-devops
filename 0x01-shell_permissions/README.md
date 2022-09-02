@@ -1,1 +1,1 @@
-changes the owner of the file hello to the user bett
+creates an empty file called hello
