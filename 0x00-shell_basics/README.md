@@ -1,1 +1,1 @@
-script that prints the type of the file named iamafile
+number 12
