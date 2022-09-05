@@ -1,1 +1,1 @@
-Display the last 10 lines of /etc/passwd
+Write a script that deletes all the regular files (not the directories) with a .js
