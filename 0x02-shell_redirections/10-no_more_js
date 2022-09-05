@@ -1,2 +1,2 @@
 #!/bin/bash
-vi 10-no_more_js
+find . -type f -name '*.js' -delete
